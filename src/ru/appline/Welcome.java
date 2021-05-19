@@ -1,4 +1,4 @@
-package ru.appline.welcome;
+package ru.appline;
 
 public class Welcome {
     public static void main(String[] args) {

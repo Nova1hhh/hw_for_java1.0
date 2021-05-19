@@ -1,4 +1,4 @@
-package ru.appline.welcome;
+package ru.appline;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package ru.appline.welcome;
+package ru.appline;
 
 public class Variables {
     public static void main(String[] args) {
