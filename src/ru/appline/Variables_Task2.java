@@ -1,8 +1,8 @@
 package ru.appline;
 
-public class Variables {
+public class Variables_Task2 {
     public static void main(String[] args) {
-        Variables test = new Variables();
+        Variables_Task2 test = new Variables_Task2();
         test.printVar();
     }
     public void printVar() {
